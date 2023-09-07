@@ -1,0 +1,56 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+   
+}
+.nav-home{
+    width:100vw;
+    height: 10vh;
+    background-color:#000;
+    display: flex;
+    flex-direction:column;
+    
+   
+    
+}
+.bg-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
+}
+.nav-heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:#fff;
+
+}
+.book-blog-heading{
+    font-family: "Roboto";
+}
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+.nav-items{
+    color:#fff;
+    font-family: "Roboto";
+    margin:10px;
+}
+.react-icon{
+    color: #d9bc1c;
+    padding:5px;
+    
+}
+.register{
+    font-family: "Roboto";
+    font-weight:600;
+    font-size: 15px;
+    color: #fff;
+    font-style: none;
+
+}
+

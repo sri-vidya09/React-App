@@ -1,0 +1,92 @@
+.bg-container{
+   height: 100vh;
+}
+.card-container{
+   background-color:#edddc7;
+   border-radius: 10px;
+   width: 30vw;
+   display:flex;
+   flex-direction: column; 
+
+}
+.heading{
+   display:flex;
+   flex-direction:row;
+   justify-content: center;
+   align-items: center;
+   
+}
+.icon{
+   height:30px;
+   width: 30px;
+   color: #d9bc1c;
+   
+   
+  
+}
+.main-heading{
+   text-align: center;
+   font-family: Serif;
+}
+
+.input-element{
+   display:flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   margin:10px;
+}
+.input{
+   font-family: Serif;
+   font-size: 18px;
+   margin: 2px;
+}
+.input-text{
+   outline: 0px;
+   border: 0px;
+   width: 100%;
+   height:28px;
+   border-radius: 5px;
+   
+}
+.button-element{
+   display:flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   margin:10px;
+}
+.button{
+   width:100%;
+   background-color:#000;
+   color:#ffffff;
+   height:28px;
+   border-radius: 5px;
+   font-family: Serif;
+   font-size: 16px;
+   border:0px;
+   outline: 0px;
+   cursor: pointer;
+   
+}
+.login-para{
+   font-family:Serif ;
+   font-size: 18px;
+   color: #000;
+   margin-left: 10px;
+   margin-bottom: -10px;
+
+}
+.button-login{
+   width:100%;
+   background-color:#3cba25;
+   color:#ffffff;
+   height:28px;
+   border-radius: 5px;
+   font-family: Serif;
+   font-size: 16px;
+   border:0px;
+   outline: 0px;
+   cursor: pointer;
+
+}
